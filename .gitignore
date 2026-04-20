@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# Local notes (never publish drafts of pricing / keygen material)
+/private/
+*.key
+*.pem
+scratch/
