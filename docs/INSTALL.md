@@ -24,12 +24,18 @@ image database (~545 MB) after you browse cards for a while.
 
 ## Activating a license
 
-1. Purchase a license (TBD — purchase link will appear on the Releases page).
-2. You will receive `deckhand.license` via email.
-3. Drop it into `%APPDATA%\DeckHand\` (or click **Help → Install License**
-   and select the file).
-4. Restart DeckHand. The title bar will show **Licensed** and new cards /
-   tags will unlock.
+1. Purchase a license from the Gumroad storefront (link on the Releases page
+   when v0.1.0 ships). You can pay via card or PayPal.
+2. Within ~30 seconds you will receive `deckhand.license` as an email
+   attachment. Check your spam folder if it doesn't arrive in 5 minutes.
+3. In DeckHand, click **Help → Install License** and select the file. You
+   can also drop it directly into `%APPDATA%\DeckHand\` — DeckHand will
+   pick it up on next launch.
+4. The title bar will show **Licensed**. Any locked cards/tags previously
+   downloaded unlock immediately — no re-download needed.
+
+If your license file goes missing, you can re-download it from your
+Gumroad library (`gumroad.com/library`) without re-purchasing.
 
 ## Uninstalling
 

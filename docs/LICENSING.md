@@ -67,9 +67,26 @@ updates).
   future release.
 - Refunds within 14 days if the paid features don't work for you.
 
+## How to buy
+
+DeckHand licenses are sold through **Gumroad**. The purchase link will be
+added to the Releases page when v0.1.0 ships. Gumroad handles payments
+(card, PayPal), receipts, and your purchase library.
+
+On payment, a Cloudflare Worker receives Gumroad's webhook, generates your
+signed license file, and emails it to you automatically. Typical delivery:
+30 seconds from payment.
+
+If delivery fails for any reason, your purchase is logged in your Gumroad
+library at `gumroad.com/library` — you can re-download the license at any
+time without contacting us.
+
 ## Refunds & transfers
 
-Contact the project via a GitHub issue marked `licensing:`.
+Refunds within 14 days via Gumroad's standard refund flow. For license
+transfers (e.g. you lost the email and your Gumroad account), open a
+GitHub issue marked `licensing:` with your purchase email and Gumroad
+order ID.
 
 ## Price
 
