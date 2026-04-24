@@ -69,9 +69,12 @@ updates).
 
 ## How to buy
 
-DeckHand licenses are sold through **Gumroad**. The purchase link will be
-added to the Releases page when v0.1.0 ships. Gumroad handles payments
-(card, PayPal), receipts, and your purchase library.
+DeckHand licenses are sold through **Gumroad**:
+
+> <https://feickinghouse.gumroad.com/l/Deckhand>
+
+Gumroad handles payments (card, PayPal), receipts, and your purchase
+library.
 
 On payment, a Cloudflare Worker receives Gumroad's webhook, generates your
 signed license file, and emails it to you automatically. Typical delivery:
@@ -90,4 +93,5 @@ order ID.
 
 ## Price
 
-TBD — will appear on the Releases page when v0.1.0 ships.
+See the [Gumroad storefront](https://feickinghouse.gumroad.com/l/Deckhand)
+for current pricing.

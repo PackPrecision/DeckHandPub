@@ -51,6 +51,13 @@ See [docs/LICENSING.md](docs/LICENSING.md) for the full breakdown.
 
 See [docs/INSTALL.md](docs/INSTALL.md).
 
+## Buy a license
+
+<https://feickinghouse.gumroad.com/l/Deckhand>
+
+The binary is free — the license unlocks ongoing card & tag updates. See
+[docs/LICENSING.md](docs/LICENSING.md) for the full tier breakdown.
+
 ## Auto-updates
 
 DeckHand checks GitHub Releases on launch (once per day, opt-out in
